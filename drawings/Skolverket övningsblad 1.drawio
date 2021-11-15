@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T16:27:19.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="CcT9QbP2_e6FwN3Ft0Zh" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T16:31:43.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="p4GRoQR4ZGTOUNjnQRkb" version="15.7.1" type="github">
   <diagram id="g1Ea1sE99UokIJiuxwNI" name="Page-1">
     <mxGraphModel dx="1316" dy="1045" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
           <mxGeometry x="456" y="22" width="253" height="255" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;font color=&quot;#cc0066&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;3. TÄRNING - NY VERSION BEHÖVS MED EN UTGÅNGSPUNKT SOM INTE ÄR TOM&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;tiigbg.se/koda/b3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Gör ett program som fungerar som en 6-sidig tärning. När du skakar microbiten ska en siffra mellan 1-6 visas på skärmen.&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Tips! I matematikkategorin finns det ett särskilt block för att slumpa fram siffror I ett intervall.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Extra utmaning:&lt;/b&gt; Kan du göra tärningen ännu mer lik en riktig genom att visa prickar istället för siffror när du slår tärningen? OBS lite svårare.&lt;font color=&quot;#cc0066&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" id="3xRHyhHIbvwl35EICh01-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-4;curveFitting=0.95;" parent="1" vertex="1">
-            <mxGeometry x="774" y="26" width="368" height="310" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=8;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-1;curveFitting=0.95;" parent="1" vertex="1">
+            <mxGeometry x="774" y="26" width="368" height="332" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="3xRHyhHIbvwl35EICh01-4" value="&lt;div&gt;&lt;font color=&quot;#cc0066&quot;&gt;&lt;b&gt;4. SKÖLDPADDAN&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;tiigbg.se/koda/b4&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pella gillar att rita med sköldpaddan. Kan du hjälpa henne så att sköldpaddan besöker alla fyra hörnen? Förtydliga resultatet genom att se till att sköldpaddan ritar ut ett spår där den gått.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Ledtråd: Loopar kan underlätta för att slippa kopiera många likadana block.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Extra utmaning:&lt;/b&gt; Täck alla pixlar UTAN att sköldpaddan går I sitt eget spår.&lt;font color=&quot;#cc0066&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-4;curveFitting=0.95;" parent="1" vertex="1">
@@ -65,29 +65,30 @@
         <mxCell id="3xRHyhHIbvwl35EICh01-8" value="&lt;div&gt;&lt;font color=&quot;#cc0066&quot;&gt;&lt;b&gt;6. PIXELFÖRDELNING&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;tiigbg.se/koda/b6&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Programmet ritar ett slumpvis mönster som lyser upp 1/5 av displayen. Ändra I koden så att den istället generar 2/5, 3/5, 4/5 och/eller 5/5.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Tänkvärt: Fundera på vad “Om-blocket” gör och varför det ser ut som det gör här. Nehövs verkligen “Om-blocket” och I så fall varför?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-4;curveFitting=0.95;" parent="1" vertex="1">
           <mxGeometry x="16" y="544" width="349" height="266" as="geometry" />
         </mxCell>
-        <mxCell id="3xRHyhHIbvwl35EICh01-10" value="&lt;div&gt;&lt;font color=&quot;#cc0066&quot;&gt;&lt;b&gt;7. HITTA KOORDINATEN&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;tiigbg.se/koda/b7&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tigerlilja har gjort ett spel där man ska placera en prick&amp;nbsp;&lt;/div&gt;&lt;div&gt;genom att luta på micro:biten. Först visar micro:biten två&amp;nbsp;&lt;span&gt;siffror för x &amp;amp; y. Målet med spelet är att placera pricken på&amp;nbsp;&lt;/span&gt;&lt;span&gt;den koordinaten och klicka på A-knappen. Om man vill se&amp;nbsp;&lt;/span&gt;&lt;span&gt;koordinaten igen kan man trycka på B-knappen.&amp;nbsp;&lt;/span&gt;&lt;span&gt;Ändra i Tigerliljas program så att det visas ett hjärta när&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;man fått 5 rätt.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kom ihåg: &lt;/b&gt;Koordinaterna på micro:biten börjar uppe till&amp;nbsp;&lt;/div&gt;&lt;div&gt;vänster med x=0 och y=0.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-4;curveFitting=0.95;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="757" y="385" width="375" height="374" as="geometry" />
+        <mxCell id="3xRHyhHIbvwl35EICh01-10" value="&lt;div&gt;&lt;font color=&quot;#cc0066&quot;&gt;&lt;b&gt;7. HITTA KOORDINATEN&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;tiigbg.se/koda/b7&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Tigerlilja har gjort ett spel där man ska placera en prick&amp;nbsp;&lt;/div&gt;&lt;div&gt;genom att luta på micro:biten. Först visar micro:biten två&amp;nbsp;&lt;span&gt;siffror för x &amp;amp; y. Målet med spelet är att placera pricken på&amp;nbsp;&lt;/span&gt;&lt;span&gt;den koordinaten och klicka på A-knappen. Om man vill se&amp;nbsp;&lt;/span&gt;&lt;span&gt;koordinaten igen kan man trycka på B-knappen.&amp;nbsp;&lt;/span&gt;&lt;span&gt;Ändra i Tigerliljas program så att det visas ett hjärta när&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;man fått 5 rätt.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kom ihåg: &lt;/b&gt;Koordinaterna på micro:biten börjar uppe till&amp;nbsp;&lt;/div&gt;&lt;div&gt;vänster med x=0 och y=0.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-1;curveFitting=0.95;arcSize=10;" parent="1" vertex="1">
+          <mxGeometry x="734" y="436" width="375" height="374" as="geometry" />
         </mxCell>
         <mxCell id="3xRHyhHIbvwl35EICh01-13" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;jumpStyle=arc;strokeColor=#000000;endArrow=classic;strokeWidth=3;sketch=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="3xRHyhHIbvwl35EICh01-8" target="3xRHyhHIbvwl35EICh01-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="630" as="sourcePoint" />
             <mxPoint x="720" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="365" y="749" />
-              <mxPoint x="453" y="749" />
-              <mxPoint x="453" y="800" />
-              <mxPoint x="429" y="800" />
-              <mxPoint x="429" y="778" />
-              <mxPoint x="563" y="778" />
-              <mxPoint x="563" y="805" />
-              <mxPoint x="620" y="805" />
-              <mxPoint x="620" y="744" />
-              <mxPoint x="596" y="744" />
-              <mxPoint x="596" y="784" />
-              <mxPoint x="658" y="784" />
-              <mxPoint x="658" y="739" />
-              <mxPoint x="700" y="739" />
-              <mxPoint x="700" y="666" />
+              <mxPoint x="430" y="744" />
+              <mxPoint x="430" y="703" />
+              <mxPoint x="497" y="703" />
+              <mxPoint x="497" y="800" />
+              <mxPoint x="465" y="800" />
+              <mxPoint x="465" y="778" />
+              <mxPoint x="638" y="778" />
+              <mxPoint x="638" y="760" />
+              <mxPoint x="596" y="760" />
+              <mxPoint x="596" y="709" />
+              <mxPoint x="526" y="709" />
+              <mxPoint x="526" y="744" />
+              <mxPoint x="653" y="744" />
+              <mxPoint x="653" y="688" />
+              <mxPoint x="700" y="688" />
+              <mxPoint x="700" y="717" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -115,8 +116,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nV6lGtGCFat5JLpOnvdh-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: left ; font-size: 18px&quot;&gt;Kör det här programmet på själva microbiten och inte i simulatorn!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=8;hachureGap=8;hachureAngle=45;fillColor=#FF8000;sketch=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;curveFitting=0.95;simplification=0;sketchStyle=rough;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontSize=18;fontColor=#004C99;fontStyle=1;rotation=-9.9;" vertex="1" parent="1">
-          <mxGeometry x="877" y="741" width="274" height="49" as="geometry" />
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: left ; font-size: 18px&quot;&gt;Kör det här programmet på själva microbiten och inte i simulatorn!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=8;hachureGap=8;hachureAngle=45;fillColor=#FF8000;sketch=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;curveFitting=0.95;simplification=0;sketchStyle=rough;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontSize=18;fontColor=#004C99;fontStyle=1;rotation=9.999999999999998;" vertex="1" parent="1">
+          <mxGeometry x="868" y="402" width="274" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-6" value="spår 1" style="" visible="0" parent="0" />
         <mxCell id="nV6lGtGCFat5JLpOnvdh-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=none;sketch=1;rounded=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;" edge="1" parent="nV6lGtGCFat5JLpOnvdh-6" source="nV6lGtGCFat5JLpOnvdh-8" target="nV6lGtGCFat5JLpOnvdh-10">
