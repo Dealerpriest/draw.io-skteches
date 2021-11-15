@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T16:36:40.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xufBRand1GqarQpcXpX1" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T16:40:44.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-ZnvwgWysdElMwWIpOkH" version="15.7.1" type="github">
   <diagram id="g1Ea1sE99UokIJiuxwNI" name="Page-1">
     <mxGraphModel dx="1316" dy="1045" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="nV6lGtGCFat5JLpOnvdh-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: left ; font-size: 18px&quot;&gt;Kör det här programmet på själva microbiten och inte i simulatorn!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=8;hachureGap=8;hachureAngle=45;fillColor=#FF8000;sketch=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;curveFitting=0.95;simplification=0;sketchStyle=rough;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontSize=18;fontColor=#004C99;fontStyle=1;rotation=9.999999999999998;" vertex="1" parent="1">
           <mxGeometry x="868" y="402" width="274" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="nV6lGtGCFat5JLpOnvdh-6" value="spår 1" style="" visible="0" parent="0" />
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-6" value="spår 1" style="" parent="0" />
         <mxCell id="nV6lGtGCFat5JLpOnvdh-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=none;sketch=1;rounded=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#000000;" edge="1" parent="nV6lGtGCFat5JLpOnvdh-6" source="nV6lGtGCFat5JLpOnvdh-8" target="nV6lGtGCFat5JLpOnvdh-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -221,7 +221,7 @@
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-23" value="background 2" style="" parent="0" />
         <mxCell id="nV6lGtGCFat5JLpOnvdh-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=5;hachureAngle=140;fillColor=#FF66B3;sketch=1;shadow=0;align=left;glass=0;fillStyle=hachure;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=1;verticalAlign=top;spacingLeft=8;jiggle=2;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;arcSize=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=none;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-23">
-          <mxGeometry x="31.42" y="867.4000000000001" width="1092" height="755" as="geometry" />
+          <mxGeometry x="24" y="853" width="1119" height="777" as="geometry" />
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=10;hachureAngle=20;fillColor=#00FFFF;sketch=1;shadow=0;align=left;glass=0;fillStyle=zigzag;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=1;verticalAlign=top;spacingLeft=8;jiggle=6;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;arcSize=50;strokeColor=none;fontColor=#ffffff;direction=south;rotation=-185;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-23">
           <mxGeometry x="698.3" y="855.62" width="435.57" height="750.54" as="geometry" />
@@ -240,6 +240,16 @@
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-30" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=15;fillColor=#009900;fillStyle=zigzag-line;sketch=1;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;hachureAngle=20;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;curveFitting=0.95;simplification=0;sketchStyle=rough;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontSize=17;fontColor=#004C99;strokeColor=none;rotation=-183;direction=south;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-23">
           <mxGeometry x="554" y="1056.9" width="505" height="572" as="geometry" />
+        </mxCell>
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-35" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;glass=0;shadow=1;fillStyle=solid;align=left;comic=0;spacingLeft=6;verticalAlign=top;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;jiggle=3;direction=east;portConstraint=none;connectable=1;strokeOpacity=100;fillOpacity=100;labelPadding=0;fixDash=0;container=0;simplification=0;disableMultiStroke=0;disableMultiStrokeFill=0;dashOffset=10;zigzagOffset=150;sketchStyle=rough;fontSize=17;strokeColor=default;fillColor=default;html=1;fontColor=default;noLabel=0;spacingTop=-4;spacing=10;labelBackgroundColor=none;labelBorderColor=none;curveFitting=0.95;dashGap=50;arcSize=9;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-23">
+          <mxGeometry x="22" y="863" width="559" height="763" as="geometry" />
+        </mxCell>
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-36" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;glass=0;shadow=1;fillStyle=solid;align=left;comic=0;spacingLeft=6;verticalAlign=top;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;jiggle=3;direction=east;portConstraint=none;connectable=1;strokeOpacity=100;fillOpacity=100;labelPadding=0;fixDash=0;container=0;simplification=0;disableMultiStroke=0;disableMultiStrokeFill=0;dashOffset=10;zigzagOffset=150;sketchStyle=rough;fontSize=17;strokeColor=default;fillColor=default;html=1;fontColor=default;noLabel=0;spacingTop=-4;spacing=10;labelBackgroundColor=none;labelBorderColor=none;curveFitting=0.95;dashGap=50;arcSize=9;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-23">
+          <mxGeometry x="605" y="846" width="525" height="397" as="geometry" />
+        </mxCell>
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-33" value="tips tricks" parent="0" />
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-34" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;glass=0;shadow=1;fillStyle=solid;align=left;comic=0;spacingLeft=6;verticalAlign=top;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;jiggle=3;direction=east;portConstraint=none;connectable=1;strokeOpacity=100;fillOpacity=100;labelPadding=0;fixDash=0;container=0;simplification=0;disableMultiStroke=0;disableMultiStrokeFill=0;dashOffset=10;zigzagOffset=150;sketchStyle=rough;fontSize=17;strokeColor=default;fillColor=default;html=1;fontColor=default;noLabel=0;spacingTop=-4;spacing=10;labelBackgroundColor=none;labelBorderColor=none;curveFitting=0.95;dashGap=50;arcSize=9;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-33">
+          <mxGeometry x="606" y="1268" width="542.4" height="358" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
