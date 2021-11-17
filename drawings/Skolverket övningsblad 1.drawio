@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T13:06:36.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="272tK8Qm38MktqjfGvgM" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T14:35:30.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hX9kHe_V0NGXPAJWsZ0d" version="15.7.4" type="github">
   <diagram id="g1Ea1sE99UokIJiuxwNI" name="Page-1">
-    <mxGraphModel dx="1477" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="1045" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="3xRHyhHIbvwl35EICh01-24" value="background" style="locked=1;" parent="0" />
@@ -73,21 +73,21 @@
             <mxPoint x="780" y="630" as="sourcePoint" />
             <mxPoint x="720" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="727" />
-              <mxPoint x="430" y="703" />
-              <mxPoint x="497" y="703" />
-              <mxPoint x="497" y="800" />
+              <mxPoint x="441" y="727" />
+              <mxPoint x="441" y="692" />
+              <mxPoint x="408" y="692" />
+              <mxPoint x="408" y="800" />
               <mxPoint x="465" y="800" />
-              <mxPoint x="465" y="778" />
-              <mxPoint x="638" y="778" />
-              <mxPoint x="638" y="760" />
-              <mxPoint x="596" y="760" />
-              <mxPoint x="596" y="709" />
-              <mxPoint x="526" y="709" />
-              <mxPoint x="526" y="744" />
-              <mxPoint x="653" y="744" />
-              <mxPoint x="653" y="709" />
-              <mxPoint x="700" y="709" />
+              <mxPoint x="465" y="783" />
+              <mxPoint x="664" y="783" />
+              <mxPoint x="664" y="746" />
+              <mxPoint x="636" y="746" />
+              <mxPoint x="636" y="692" />
+              <mxPoint x="611" y="692" />
+              <mxPoint x="611" y="718" />
+              <mxPoint x="664" y="718" />
+              <mxPoint x="664" y="671" />
+              <mxPoint x="700" y="671" />
               <mxPoint x="700" y="692" />
             </Array>
           </mxGeometry>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: left ; font-size: 18px&quot;&gt;Kör det här programmet på själva microbiten och inte i simulatorn!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=8;hachureGap=8;hachureAngle=45;fillColor=#FF8000;sketch=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;curveFitting=0.95;simplification=0;sketchStyle=rough;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontSize=18;fontColor=#004C99;fontStyle=1;rotation=9.999999999999998;" parent="1" vertex="1">
           <mxGeometry x="868" y="402" width="274" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Rmw-cHCDUCpta5OIWocB-1" value="Spår 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=1;fontSize=38;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="719" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-6" value="spår 1" style="" parent="0" />
         <mxCell id="nV6lGtGCFat5JLpOnvdh-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=none;sketch=1;rounded=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#FFFFFF;fillColor=#000000;fillStyle=solid;shape=flexArrow;" parent="nV6lGtGCFat5JLpOnvdh-6" source="nV6lGtGCFat5JLpOnvdh-8" target="nV6lGtGCFat5JLpOnvdh-10" edge="1">
@@ -183,20 +186,20 @@
             <mxPoint x="780" y="630" as="sourcePoint" />
             <mxPoint x="720" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="501" y="734" />
-              <mxPoint x="501" y="759" />
-              <mxPoint x="478" y="759" />
-              <mxPoint x="478" y="794" />
-              <mxPoint x="450" y="794" />
-              <mxPoint x="450" y="769" />
-              <mxPoint x="563" y="769" />
-              <mxPoint x="563" y="805" />
-              <mxPoint x="620" y="805" />
-              <mxPoint x="620" y="744" />
-              <mxPoint x="596" y="744" />
-              <mxPoint x="596" y="784" />
-              <mxPoint x="658" y="784" />
-              <mxPoint x="658" y="733" />
+              <mxPoint x="451" y="734" />
+              <mxPoint x="451" y="759" />
+              <mxPoint x="465" y="759" />
+              <mxPoint x="465" y="805" />
+              <mxPoint x="437" y="805" />
+              <mxPoint x="437" y="784" />
+              <mxPoint x="523" y="784" />
+              <mxPoint x="523" y="805" />
+              <mxPoint x="645" y="805" />
+              <mxPoint x="645" y="759" />
+              <mxPoint x="620" y="759" />
+              <mxPoint x="620" y="784" />
+              <mxPoint x="667" y="784" />
+              <mxPoint x="667" y="733" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -220,6 +223,9 @@
               <mxPoint x="380" y="446" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rmw-cHCDUCpta5OIWocB-2" value="Spår 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=1;fontSize=38;labelBorderColor=none;shadow=0;" vertex="1" parent="nV6lGtGCFat5JLpOnvdh-6">
+          <mxGeometry x="484" y="735" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-23" value="background 2" style="locked=1;" parent="0" />
         <mxCell id="nV6lGtGCFat5JLpOnvdh-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=5;hachureAngle=140;fillColor=#FF66B3;sketch=1;shadow=0;align=left;glass=0;fillStyle=hachure;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=1;verticalAlign=top;spacingLeft=8;jiggle=2;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;arcSize=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;strokeColor=none;" parent="nV6lGtGCFat5JLpOnvdh-23" vertex="1">
