@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T10:17:12.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5o-SUg_RypybnmQDhyz3" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T10:19:33.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="3LfdafQSrQ9h8TmpN0h7" version="15.7.4" type="github">
   <diagram id="g1Ea1sE99UokIJiuxwNI" name="Page-1">
     <mxGraphModel dx="1477" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
         <mxCell id="nV6lGtGCFat5JLpOnvdh-30" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=15;fillColor=#009900;fillStyle=zigzag-line;sketch=1;rounded=1;shadow=0;glass=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;hachureAngle=20;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;curveFitting=0.95;simplification=0;sketchStyle=rough;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontSize=17;fontColor=#004C99;strokeColor=none;rotation=-183;direction=south;" parent="nV6lGtGCFat5JLpOnvdh-23" vertex="1">
           <mxGeometry x="554" y="1056.9" width="505" height="572" as="geometry" />
         </mxCell>
-        <mxCell id="1" value="spår 2" style="locked=1;" parent="0" />
+        <mxCell id="1" value="spår 2" style="locked=1;" parent="0" visible="0" />
         <mxCell id="wfl3Rg0Rn2dCTV5lHboT-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=none;sketch=1;rounded=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#FFFFFF;strokeOpacity=100;shadowColor=#ffffff;shape=flexArrow;fillColor=#000000;fillStyle=solid;" parent="1" source="wfl3Rg0Rn2dCTV5lHboT-1" target="wfl3Rg0Rn2dCTV5lHboT-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -143,7 +143,7 @@
         <mxCell id="8RnKzko8h1gfuElTBgTN-10" value="Spår 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=1;fontSize=38;labelBorderColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="478" y="729" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nV6lGtGCFat5JLpOnvdh-6" value="spår 1" style="" parent="0" visible="0" />
+        <mxCell id="nV6lGtGCFat5JLpOnvdh-6" value="spår 1" style="" parent="0" />
         <mxCell id="nV6lGtGCFat5JLpOnvdh-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=none;sketch=1;rounded=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=#FFFFFF;fillColor=#000000;fillStyle=solid;shape=flexArrow;" parent="nV6lGtGCFat5JLpOnvdh-6" source="nV6lGtGCFat5JLpOnvdh-8" target="nV6lGtGCFat5JLpOnvdh-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -171,17 +171,17 @@
           </mxCell>
         </UserObject>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-12" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;4. HUMÖRSBRICKAN&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;a href=&quot;https://www.tiigbg.se/koda/a4&quot;&gt;tiigbg.se/koda/a4&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Använd “input”-blocken för att bygga en humörsbricka. &lt;b&gt;Knapp A ska göra att displayen visar en glad smiley. Knapp B ska göra att en ledsen smiley visas.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ledtråd: &lt;/b&gt;Det går att rita egna smileys med det blå “show led”-blocket eller använda “visa ikon” och bläddra fram till den smiley du vill ha.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Extra utmaning: &lt;/b&gt;Kan du ändra på en av smileysarna? Går det att ha fler än två olika smileys att visa I sitt program?&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-4;curveFitting=0.95;spacingRight=4;" parent="nV6lGtGCFat5JLpOnvdh-6" vertex="1">
-          <mxGeometry x="431" y="322" width="270" height="382" as="geometry" />
+          <mxGeometry x="431" y="322" width="270" height="392" as="geometry" />
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-13" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;5. KLICKRÄKNAREN&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gå till länken: &lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;a href=&quot;https://www.tiigbg.se/koda/a5&quot;&gt;tiigbg.se/koda/a5&lt;/a&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Efraim började skapa ett program för att räkna klasskamrater, men han blev inte färdig. &lt;b&gt;Färdigställ hans program så att siffran på skärmen minskar respektive ökar när man klickar på knapparna A och B.&lt;/b&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=7;hachureGap=7;hachureAngle=40;sketch=1;shadow=1;align=left;glass=0;fillStyle=solid;comic=0;fixDash=0;labelPadding=0;fontFamily=Itim;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DItim;fontStyle=0;verticalAlign=top;spacingLeft=6;jiggle=3;disableMultiStroke=0;disableMultiStrokeFill=0;simplification=0;strokeColor=default;fillColor=default;sketchStyle=rough;direction=east;fontSize=17;spacing=10;spacingTop=-4;curveFitting=0.95;spacingRight=4;" parent="nV6lGtGCFat5JLpOnvdh-6" vertex="1">
-          <mxGeometry x="18" y="308" width="343" height="184" as="geometry" />
+          <mxGeometry x="18" y="308" width="344" height="184" as="geometry" />
         </mxCell>
         <mxCell id="nV6lGtGCFat5JLpOnvdh-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;jumpStyle=arc;strokeColor=#FFFFFF;endArrow=classic;strokeWidth=3;sketch=1;shadow=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#000000;fillStyle=solid;shape=flexArrow;" parent="nV6lGtGCFat5JLpOnvdh-6" source="nV6lGtGCFat5JLpOnvdh-12" target="nV6lGtGCFat5JLpOnvdh-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="420" as="sourcePoint" />
             <mxPoint x="530" y="565" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="398" y="418" />
+              <mxPoint x="398" y="420" />
               <mxPoint x="398" y="354" />
             </Array>
           </mxGeometry>
@@ -236,7 +236,7 @@
               <mxPoint x="795" y="261" />
               <mxPoint x="795" y="327" />
               <mxPoint x="732" y="327" />
-              <mxPoint x="732" y="418" />
+              <mxPoint x="732" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
